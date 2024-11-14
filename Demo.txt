@@ -1,1 +1,2 @@
 This is a demo text document
+This is an edited file.
